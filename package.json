@@ -1,0 +1,12 @@
+{
+  "name": "yarn_project",
+  "version": "1.0.0",
+  "description": "Front-end project using yarn",
+  "main": "index.js",
+  "author": "diegogarcesj",
+  "license": "UNLICENSED",
+  "private": null,
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
